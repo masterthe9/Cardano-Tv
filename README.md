@@ -19,8 +19,8 @@ We welcome contributions from the community! If you have information, insights, 
 
 ## Contact
 - **YouTube:** [Cardano TV](your-youtube-channel-link)
-- **Twitter:** [@CardanoTV](your-twitter-link)
-- **Email:** [contact@cardanotv.com](mailto:contact@cardanotv.com)
+- **Twitter:** [@CardanoTV]([)](https://twitter.com/CardanoTvv)
+- **Email:** [contact@cardanotv.com](mailto:cardanotvv@gmail.com)
 
 ## Support Us
 If you find our content valuable, consider supporting us:
